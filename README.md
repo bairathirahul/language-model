@@ -1,6 +1,6 @@
 # Execution
 To execute the program, run following command in the command prompt
-`py bairathi_assignment2.py > ouptput.txt`
+`python language_model.py > ouptput.txt`
 
 The command will save the output of program in a file "output.txt". The file will contain calculated probabilities of words of
 * English Dataset with English Language Model
